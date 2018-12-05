@@ -1,4 +1,12 @@
 (ns advent-2018.03
+  "Fundamentals:
+
+  - stream processing
+  - stateful event processing
+  - data structure fundamentals & design
+  - higher order functions
+
+  "
   (:require [clojure.java.io :as io]
             [clojure.set :as set]))
 
